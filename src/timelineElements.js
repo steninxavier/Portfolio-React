@@ -2,7 +2,7 @@ let timelineElements = [
   {
     id: 1,
     title: "Web Development Internship(Remote)",
-    location: "LastMile UG, Frankfurt (www.thelastmile.shop)",
+    location: "LastMile UG, Frankfurt",
     description:
       "Website designing, building and maintaining.",
      description1:"Directing or performing Website updates.",
@@ -43,7 +43,7 @@ let timelineElements = [
     location: "Berlin School Of Business And Innovation, Berlin",
     
     
-    date: "05/2019 - 05/2021",
+    date: "05/2019 - 11/2021",
     icon: "school",
   },
   
