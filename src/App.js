@@ -18,7 +18,7 @@ function App() {
   return (
     <div>
       <h1 className="title">Hi There, I'm
-          STENIN XAVIER</h1>
+          STENIN</h1>
       <VerticalTimeline>
         {timelineElements.map((element) => {
           let isWorkIcon = element.icon === "work";
